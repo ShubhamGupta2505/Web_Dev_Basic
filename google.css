@@ -29,4 +29,8 @@ button {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     cursor: pointer ;
+    margin: 0 auto 32px;
+}button:first-of-type {
+    margin-right: 8px;
+    margin: 0 auto 32px;
 }
