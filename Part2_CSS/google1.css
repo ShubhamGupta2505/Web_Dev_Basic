@@ -1,7 +1,7 @@
 
 .main {
     margin-top: 100px;
-    text-align: center;
+    
 }
 .image {
     width: 300px;
@@ -26,8 +26,7 @@
     border: 1px solid #dfe1e5;
 }
 .search-button {
-    margin-left: auto;
-    margin-right: auto;
+    
     
     margin-top: 30px;
    
@@ -40,12 +39,12 @@
     padding-bottom: 8px;
     font-weight: lighter;
     font-size: 14px;
+    margin-right: 10px;
 }
 .lucky-button {
 
     
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 30px;
     background: #dfe1e5;
     border: none;
     border-radius: 3px;
@@ -55,5 +54,10 @@
     padding-bottom: 8px;
     font-weight: lighter;
     font-size: 14px;
+    margin-left: 10px;
 
+}
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
 }
