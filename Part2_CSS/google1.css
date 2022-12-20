@@ -12,7 +12,7 @@
 }
 .input {
     width: 400px;
-    height: 24px;
+    line-height: 24px;
     display: block;
     
     margin-left: auto;
@@ -25,7 +25,20 @@
     border: 1px solid #dfe1e5;
 }
 .search-button {
-
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 30px;
+    padding: auto;
+    background: #dfe1e5;
+    border: none;
+    border-radius: 3px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: lighter;
+    font-size: 14px;
 }
 .lucky-button {
 
