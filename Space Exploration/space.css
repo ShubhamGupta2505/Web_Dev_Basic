@@ -14,3 +14,7 @@ body {
     background: white;
     border: none;
 }
+.span-exp {
+    /* text-decoration: underline 5px; */
+    border-bottom: 4px solid white;
+}
