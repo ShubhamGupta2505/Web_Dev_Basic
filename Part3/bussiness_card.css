@@ -7,4 +7,5 @@ body {
 .card {
     border: 5px dotted blue;
     padding: 20px;
+    display: flex;
 }
