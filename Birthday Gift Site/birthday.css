@@ -1,7 +1,11 @@
 body {
     text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: #a2d2ff ;
+    color: white;
 }
 #profile-img {
     width: 200px;
     border-radius: 180px;
+    border: 6px solid #efb0c9;
 }
