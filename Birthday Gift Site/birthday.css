@@ -9,7 +9,13 @@ body {
     align-items: center;
 
 }
-h1,h2,h3,h4, p {
+#header {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+h1,h3, p {
     text-shadow: 0px 0px 5px black;
 }
 #profile-img {
@@ -17,7 +23,16 @@ h1,h2,h3,h4, p {
     border-radius: 180px;
     border: 6px solid #efb0c9;
 }
-h2,h4 {
+#bday-age {
     background: #efb0c9;
-    
+    padding: 5px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#bday-date {
+    background: #efb0c9;
+    padding:5px  10px;
+    border-radius: 6px;
+    margin: 0;
 }
