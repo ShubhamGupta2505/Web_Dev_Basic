@@ -36,8 +36,13 @@ h1,h3, p {
     border-radius: 6px;
     margin: 0;
 }
+
 .gift-img {
     width: 400px;
+    height: 400px;
+    background-image: url(images/gift-cover.jpg);
+    justify-content: center;
+    background-size: cover;
     border: 6px solid white;
     border-radius: 10px;
 }
@@ -50,4 +55,7 @@ h1,h3, p {
 }
 .gift-hint {
     margin-top: 0;
+}
+.gift-img:hover {
+    background-image: url(images/happy.gif);
 }
