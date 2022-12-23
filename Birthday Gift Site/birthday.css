@@ -36,3 +36,18 @@ h1,h3, p {
     border-radius: 6px;
     margin: 0;
 }
+.gift-img {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+.gift-section {
+    margin-top: 50px;
+
+}
+.gift-title {
+    margin-bottom:10px;
+}
+.gift-hint {
+    margin-top: 0;
+}
